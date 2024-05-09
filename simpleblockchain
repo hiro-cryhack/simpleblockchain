@@ -1,0 +1,13 @@
+simpleblockchain/
+│
+├── simpleblockchain/
+│   ├── __init__.py
+│   ├── blockchain.py
+│   └── transaction.py
+│
+├── tests/
+│   ├── __init__.py
+│   └── test_blockchain.py
+│
+├── setup.py
+└── README.md
